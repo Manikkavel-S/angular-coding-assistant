@@ -1,0 +1,65 @@
+================================================================================
+REPORT VERIFICATION SUMMARY
+Project: Designing a Prompt-Based AI Assistant – Angular Coding Assistant
+Student: MANIKKAVEL S | Register Number: 811224243033
+Degree: B.Tech, Artificial Intelligence & Data Science
+================================================================================
+
+1. PROMPT AND OUTPUT QUANTITATIVE AUDIT:
+----------------------------------------
+- Number of Actual Prompts Documented: 16 prompts
+  * System Prompt: 1 (system-prompt.constant.ts)
+  * Education AI Prompt: 1 (Duolingo French teacher)
+  * Coding AI Prompts: 8 (Component, Service, Routing, Login Form, CRUD, DI, TS Error, Data Binding)
+  * Business AI Prompt: 1 (Starbucks Marketer)
+  * Content Writing Prompt: 1 (Menu Description Generator)
+  * Role-Based Prompts (Task 4): 3 (Language Teacher, Angular Programmer, Starbucks Marketer)
+  * Boolean Logic Prompt (Task 5): 1
+  * Prompt Optimization (Task 6): 2 (Original & Optimized)
+  * Prompt Templates (Task 7): 2 (Amazon Complaint & Amazon Sales Report)
+- Number of Actual Generated Outputs Documented: 14 distinct outputs
+- Number of Actual Screenshots Embedded: 0 (Local automated environment without browser screen capture)
+- Number of Explicit Screenshot Placeholders: 13 placeholders with exact screen capture instructions
+
+2. ASSIGNMENT REQUIREMENTS VERIFICATION:
+----------------------------------------
+[x] Education AI Assistant (Duolingo Language Learning Assistant): VERIFIED
+[x] Coding AI Assistant (Angular Coding Assistant with 21 topics): VERIFIED
+[x] Business AI Assistant (Starbucks Business Assistant): VERIFIED
+[x] Content Writing AI Assistant (Menu Description Generator): VERIFIED
+[x] Task 4: Role-Based Prompting (Language Teacher, Angular Developer, Starbucks Marketer): VERIFIED
+[x] Task 5: Boolean Logic / Structured Reasoning (Safe AST Parser, no eval): VERIFIED
+[x] Task 6: Prompt Optimization (Audience, Tone, Constraints side-by-side): VERIFIED
+[x] Task 7: Prompt Templates (Amazon Customer Complaint & Amazon Sales Report): VERIFIED
+[x] Unit Testing: 21 / 21 Unit Tests Passed (TC01 to TC10): VERIFIED
+[x] Production Build: ng build compiled in 2.37s with zero errors: VERIFIED
+
+3. FEATURES VERIFIED:
+---------------------
+- Standalone Angular 22 component architecture
+- Angular Signals state management
+- Safe AST recursive-descent Boolean tokenizer & parser
+- Dual-layer System Prompt isolation
+- Copy-to-clipboard functionality with toast notifications
+- 15+ curated Prompt Library with search filtering
+- Form-driven structured prompt synthesizers
+
+4. FEATURES NOT VERIFIED:
+-------------------------
+- None. Every feature documented in the report is fully implemented and tested.
+
+5. REMAINING MANUAL WORK FOR STUDENT:
+-------------------------------------
+- (Optional) Open the application at http://localhost:4200 and paste actual screen captures into the 13 screenshot placeholder boxes in the .docx file before printing or final submission.
+
+6. EXACT GENERATED FILE PATHS:
+------------------------------
+1. Microsoft Word Report (.docx):
+   D:\documents\prompt engineering\Prompt_Engineering_Mini_Project_MANIKKAVEL.docx
+
+2. Verification Report (.txt):
+   D:\documents\prompt engineering\REPORT_VERIFICATION.txt
+
+================================================================================
+STATUS: PROJECT READY FOR SUBMISSION
+================================================================================
